@@ -161,7 +161,7 @@ export default function AddLiquidity({
   
     // Set your desired gas limit and gas price
     const gasLimit = 500000; // Set your desired gas limit
-    const gasPrice = BigNumber.from("1000000000"); // Set your desired gas price in wei
+    const gasPrice = BigNumber.from("5000000000"); // Set your desired gas price in wei
   
     setAttemptingTxn(true);
   
