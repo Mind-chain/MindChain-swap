@@ -1,0 +1,24 @@
+{
+    "name": "pancakeswap",
+    "timestamp": "2020-08-25T15:41:29.665Z",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "patch": 1
+    },
+    "tags": {},
+    "logoURI": "/images/coins/wbnb.png",
+    "keywords": ["pancake", "default"],
+    "tokens": [
+   
+      {
+        "name": "Versa Swap",
+        "symbol": "Versa",
+        "address": "0x20E0Da9C0234c0CD9BA7C772289FEa780d173DD8",
+        "chainId": 10434,
+        "decimals": 18,
+        "logoURI": "/images/coins/BUSD.png"
+      }     
+    ]
+  }
+  
